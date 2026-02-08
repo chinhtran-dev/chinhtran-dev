@@ -55,7 +55,7 @@ Currently, I'm dedicated to developing **EV Charging Solutions** and exploring *
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/chinh-tran-dev" target="_blank">
+  <a href="https://linkedin.com/in/chinh-tran-dev](https://www.linkedin.com/in/chinh-tran-bb8580344" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
